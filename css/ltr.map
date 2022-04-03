@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "ltr.css",
+	"sources": [
+		"../sass/ltr.scss",
+		"../sass/_ltr.scss"
+	],
+	"sourcesContent": [
+		"@import'_ltr.scss';\r\n@import'main.css';",
+		"$start: row;\r\n.row{\r\n  flex-direction: $start ;\r\n}"
+	],
+	"names": [],
+	"mappings": "AACA,OAAO,CAAP,aAAO;;ACAP,AAAA,IAAI,CAAA;EACF,cAAc,EAFR,GAAG;CAGV"
+}

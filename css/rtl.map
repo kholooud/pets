@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "rtl.css",
+	"sources": [
+		"../sass/rtl.scss",
+		"../sass/_rtl.scss"
+	],
+	"sourcesContent": [
+		"@import'_rtl.scss';\r\n@import'main.css';\r\n.navbar .container{\r\n    flex-direction: row-reverse;\r\n}",
+		"$start: row-reverse ;\r\n.row{\r\n  flex-direction: $start;\r\n}"
+	],
+	"names": [],
+	"mappings": "AACA,OAAO,CAAP,aAAO;;ACAP,AAAA,IAAI,CAAA;EACF,cAAc,EAFR,WAAW;CAGlB;;;ADDD,AAAA,OAAO,CAAC,UAAU,CAAA;EACd,cAAc,EAAE,WAAW;CAC9B"
+}

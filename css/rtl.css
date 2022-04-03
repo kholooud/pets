@@ -1,0 +1,12 @@
+@import url(main.css);
+/* line 2, ../projects/first session/petstepelatee/sass/_rtl.scss */
+.row {
+  flex-direction: row-reverse;
+}
+
+/* line 3, ../projects/first session/petstepelatee/sass/rtl.scss */
+.navbar .container {
+  flex-direction: row-reverse;
+}
+
+/*# sourceMappingURL=rtl.css.map */

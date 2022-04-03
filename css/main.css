@@ -1,0 +1,713 @@
+@media (max-width: 1200px) {
+  /* line 3, ../projects/first session/petstepelatee/sass/_media.scss */
+  .section-title h3 {
+    font-size: 33px;
+    line-height: 40px;
+  }
+}
+
+@media (max-width: 992px) {
+  /* line 10, ../projects/first session/petstepelatee/sass/_media.scss */
+  .navbar {
+    padding: 10px !important;
+  }
+  /* line 13, ../projects/first session/petstepelatee/sass/_media.scss */
+  .dropdown-menu {
+    border: none;
+  }
+  /* line 16, ../projects/first session/petstepelatee/sass/_media.scss */
+  .slider .slider_text .we-care {
+    font-size: 45px;
+    line-height: 55px;
+  }
+  /* line 20, ../projects/first session/petstepelatee/sass/_media.scss */
+  .slider .slider_text .your-pets {
+    font-size: 45px;
+    line-height: 55px;
+  }
+  /* line 24, ../projects/first session/petstepelatee/sass/_media.scss */
+  .as-you-care .pet-thumb img {
+    width: 100%;
+  }
+  /* line 27, ../projects/first session/petstepelatee/sass/_media.scss */
+  .pet-info .section-title h3 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  /* line 31, ../projects/first session/petstepelatee/sass/_media.scss */
+  .adapt_help .section-title h3 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  /* line 35, ../projects/first session/petstepelatee/sass/_media.scss */
+  .pet-info .section-title p {
+    line-height: 23px;
+  }
+  /* line 38, ../projects/first session/petstepelatee/sass/_media.scss */
+  .adapt_help .section-title p {
+    line-height: 23px;
+  }
+  /* line 41, ../projects/first session/petstepelatee/sass/_media.scss */
+  .footer-card {
+    margin-bottom: 30px;
+  }
+  /* line 44, ../projects/first session/petstepelatee/sass/_media.scss */
+  .team-area {
+    padding-bottom: 100px;
+    padding-top: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* line 51, ../projects/first session/petstepelatee/sass/_media.scss */
+  .slider .slider_text h3 {
+    font-size: 40px;
+    line-height: 70px;
+  }
+  /* line 55, ../projects/first session/petstepelatee/sass/_media.scss */
+  .data a {
+    margin-left: 0;
+    margin-right: 5px;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  /* line 61, ../projects/first session/petstepelatee/sass/_media.scss */
+  .header .brands {
+    margin: 6px 0;
+  }
+  /* line 64, ../projects/first session/petstepelatee/sass/_media.scss */
+  .header .data {
+    margin: 6px 0;
+  }
+  /* line 67, ../projects/first session/petstepelatee/sass/_media.scss */
+  .item {
+    text-align: center;
+  }
+  /* line 70, ../projects/first session/petstepelatee/sass/_media.scss */
+  .item img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+  /* line 75, ../projects/first session/petstepelatee/sass/_media.scss */
+  .item img {
+    align-items: center;
+    margin: 0 0 25px 0;
+  }
+  /* line 79, ../projects/first session/petstepelatee/sass/_media.scss */
+  .item h4 {
+    text-align: left;
+  }
+  /* line 82, ../projects/first session/petstepelatee/sass/_media.scss */
+  .item h4 span {
+    text-align: left;
+  }
+  /* line 85, ../projects/first session/petstepelatee/sass/_media.scss */
+  .item p {
+    text-align: left;
+  }
+  /* line 88, ../projects/first session/petstepelatee/sass/_media.scss */
+  .single_testmonial {
+    padding: 40px 35px;
+  }
+}
+
+/* line 3, ../projects/first session/petstepelatee/sass/main.scss */
+.boxed-btn4, .boxed-btn3 {
+  font-size: 16px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  padding: 17px 50px;
+  font-family: 'poppins', sans-serif;
+  display: inline-block;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+
+/* line 14, ../projects/first session/petstepelatee/sass/main.scss */
+.services h3, .section_title h3 {
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 43px;
+  margin-bottom: 22px;
+}
+
+/* line 20, ../projects/first session/petstepelatee/sass/main.scss */
+.services p, .section_title p {
+  font-size: 16px;
+  line-height: 30px;
+  color: #909092;
+  font-weight: 400;
+}
+
+/* line 26, ../projects/first session/petstepelatee/sass/main.scss */
+.slider .slider_text .your-pets, .slider .slider_text .we-care {
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  margin-bottom: 4px;
+  font-size: 64px;
+  line-height: 85px;
+}
+
+/*start header*/
+/* line 35, ../projects/first session/petstepelatee/sass/main.scss */
+header {
+  background: #1c1818;
+}
+
+/* line 38, ../projects/first session/petstepelatee/sass/main.scss */
+.data {
+  margin: 15px 0;
+}
+
+/* line 41, ../projects/first session/petstepelatee/sass/main.scss */
+.data a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  margin-right: 28px;
+}
+
+/* line 49, ../projects/first session/petstepelatee/sass/main.scss */
+.data a:hover {
+  text-decoration: none;
+  color: #ff3500;
+}
+
+/* line 53, ../projects/first session/petstepelatee/sass/main.scss */
+.brands {
+  margin: 15px 0;
+}
+
+/* line 56, ../projects/first session/petstepelatee/sass/main.scss */
+.brands a {
+  font-size: 18px;
+  color: #c7c7c7;
+  margin-left: 32px;
+}
+
+/* line 61, ../projects/first session/petstepelatee/sass/main.scss */
+.brands a:hover {
+  text-decoration: none;
+  color: #ff3500;
+}
+
+/* end header */
+/*start nav*/
+/* line 67, ../projects/first session/petstepelatee/sass/main.scss */
+.navbar {
+  background-color: white !important;
+  padding: 28px 0 !important;
+  box-shadow: 0 3px 16px 0 rgba(0, 0, 0, 0.1) !important;
+}
+
+/* line 72, ../projects/first session/petstepelatee/sass/main.scss */
+.navbar-nav .nav-link {
+  font-size: 15px !important;
+  margin-left: 40px !important;
+  font-weight: 600 !important;
+  color: black;
+}
+
+/* line 78, ../projects/first session/petstepelatee/sass/main.scss */
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #ff3500;
+}
+
+/*end nav*/
+/*start slider*/
+/* line 83, ../projects/first session/petstepelatee/sass/main.scss */
+.slider .row {
+  padding-top: 50px;
+}
+
+/* line 86, ../projects/first session/petstepelatee/sass/main.scss */
+.slider {
+  height: 800px;
+  position: relative;
+  box-sizing: border-box;
+  background-position: bottom;
+  background-image: url(../img/bannerr.jpg);
+  background-repeat: no-repeat;
+  display: flex !important;
+  align-items: center !important;
+  -webkit-box-align: center !important;
+  background-size: cover;
+}
+
+/* line 98, ../projects/first session/petstepelatee/sass/main.scss */
+.slider_text {
+  padding-left: 53px;
+  flex-wrap: wrap;
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  z-index: 6;
+}
+
+/* line 105, ../projects/first session/petstepelatee/sass/main.scss */
+.slider .slider_text .your-pets {
+  font-weight: 800;
+}
+
+/* line 112, ../projects/first session/petstepelatee/sass/main.scss */
+.slider .slider_text p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 32px;
+  margin-bottom: 50px;
+  margin-top: 12px;
+}
+
+/* line 122, ../projects/first session/petstepelatee/sass/main.scss */
+.boxed-btn4 {
+  background: #fff;
+  color: #ff3500;
+}
+
+/* line 127, ../projects/first session/petstepelatee/sass/main.scss */
+a.boxed-btn4:hover {
+  background-color: #ff3500;
+  color: #fff;
+  transition: 2s;
+}
+
+/* line 132, ../projects/first session/petstepelatee/sass/main.scss */
+.slider .slider_text a {
+  text-decoration: none;
+}
+
+/* line 135, ../projects/first session/petstepelatee/sass/main.scss */
+.dog_thumb {
+  vertical-align: middle;
+  bottom: -94px;
+  right: 0;
+  text-align: right;
+}
+
+/* line 141, ../projects/first session/petstepelatee/sass/main.scss */
+.slider .dog_thumb img {
+  max-width: 109%;
+}
+
+/*end slider*/
+/*start services*/
+/* line 146, ../projects/first session/petstepelatee/sass/main.scss */
+.services {
+  padding: 100px 0;
+}
+
+/*end services*/
+/*start cards*/
+/* line 157, ../projects/first session/petstepelatee/sass/main.scss */
+.cards {
+  padding-top: 60px;
+  padding-bottom: 106px;
+}
+
+/* line 161, ../projects/first session/petstepelatee/sass/main.scss */
+.card {
+  padding: 70px 25px 65px;
+  border: 1px solid #ffc5c2 !important;
+  border-radius: 10px !important;
+  margin-bottom: 30px;
+  transition: .5s;
+  display: inline-flex !important;
+}
+
+/* line 169, ../projects/first session/petstepelatee/sass/main.scss */
+.card:hover {
+  box-shadow: 0 16px 35px 0 rgba(0, 0, 2, 0.08);
+  border: 1px solid transparent;
+}
+
+/* line 173, ../projects/first session/petstepelatee/sass/main.scss */
+.card-imgs {
+  height: 140px;
+  width: 160px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: auto;
+  background-image: url(../img/bacground.jpg);
+}
+
+/* line 181, ../projects/first session/petstepelatee/sass/main.scss */
+.card-icon {
+  padding-top: 30px;
+}
+
+/* line 184, ../projects/first session/petstepelatee/sass/main.scss */
+.cards h4 {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 700;
+}
+
+/* line 189, ../projects/first session/petstepelatee/sass/main.scss */
+.cards p {
+  font-size: 14px;
+  line-height: 30px;
+  color: #909092;
+  font-weight: 400;
+}
+
+/*end cards*/
+/*owl carousel*/
+/* line 197, ../projects/first session/petstepelatee/sass/main.scss */
+.owl-carousel .owl-theme {
+  padding: 125px 0 115px !important;
+}
+
+/* line 200, ../projects/first session/petstepelatee/sass/main.scss */
+.item {
+  min-height: 1px;
+  position: relative;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+/* Clear floats after containers */
+/* line 208, ../projects/first session/petstepelatee/sass/main.scss */
+.item::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* line 213, ../projects/first session/petstepelatee/sass/main.scss */
+.item h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #383737;
+  margin-bottom: 0;
+}
+
+/* line 219, ../projects/first session/petstepelatee/sass/main.scss */
+.item h4 span {
+  display: block;
+  color: #979797;
+  font-family: poppins,sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-bottom: 16px;
+  line-height: 1;
+  margin-top: 3px;
+}
+
+/* line 229, ../projects/first session/petstepelatee/sass/main.scss */
+.item p {
+  font-size: 18px;
+  color: #66666f;
+  margin-bottom: 0;
+  line-height: 35px;
+}
+
+/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
+/* line 237, ../projects/first session/petstepelatee/sass/main.scss */
+.item img {
+  float: left;
+  padding-left: 24px;
+}
+
+/* Increase the font-size of a span element */
+/* line 243, ../projects/first session/petstepelatee/sass/main.scss */
+.item span {
+  font-size: 20px;
+  margin-right: 15px;
+  display: block;
+}
+
+/* line 249, ../projects/first session/petstepelatee/sass/main.scss */
+.single_testmonial {
+  box-shadow: 0 16px 35px 0 rgba(0, 0, 2, 0.08);
+  border-radius: 10px;
+  padding: 60px 80px 85px;
+  align-items: center !important;
+  display: flex !important;
+}
+
+/*end owel carousel*/
+/* start as you care */
+/* line 258, ../projects/first session/petstepelatee/sass/main.scss */
+.as-you-care {
+  padding: 73px 0;
+}
+
+/* line 261, ../projects/first session/petstepelatee/sass/main.scss */
+.cat {
+  font-weight: 300;
+}
+
+/* line 265, ../projects/first session/petstepelatee/sass/main.scss */
+.pet-thumb img {
+  max-width: 80%;
+}
+
+/* line 268, ../projects/first session/petstepelatee/sass/main.scss */
+.section-title h3 {
+  font-size: 43px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #191d34;
+  font-family: 'poppins',sans-serif;
+  margin-bottom: .5rem;
+}
+
+/* line 276, ../projects/first session/petstepelatee/sass/main.scss */
+.section-title h3 span {
+  font-weight: 300;
+}
+
+/* line 279, ../projects/first session/petstepelatee/sass/main.scss */
+.section-title p {
+  color: #66666f;
+  line-height: 28px;
+  font-size: 16px;
+  margin-bottom: 54px;
+  margin-top: 30px;
+}
+
+/* line 286, ../projects/first session/petstepelatee/sass/main.scss */
+.boxed-btn3 {
+  background-color: #ff3500;
+  color: #fff;
+}
+
+/* line 291, ../projects/first session/petstepelatee/sass/main.scss */
+a.boxed-btn3:hover {
+  text-decoration: none !important;
+  color: #fff;
+}
+
+/* end as you care */
+/*start adapt area*/
+/* line 297, ../projects/first session/petstepelatee/sass/main.scss */
+.adapt_area {
+  padding: 70px 0;
+}
+
+/* line 300, ../projects/first session/petstepelatee/sass/main.scss */
+.adapt_help {
+  padding: 35px 10px;
+}
+
+/* line 303, ../projects/first session/petstepelatee/sass/main.scss */
+.single_adapt {
+  margin-bottom: 40px;
+  box-shadow: 0 16px 35px 0 rgba(0, 0, 2, 0.08);
+  border-radius: 14px;
+  background: #fff;
+  padding: 40px 40px 33px;
+}
+
+/* line 310, ../projects/first session/petstepelatee/sass/main.scss */
+.single_adapt img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+/* line 314, ../projects/first session/petstepelatee/sass/main.scss */
+.adapt_content h3 {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: poppins,sans-serif;
+  color: #383737;
+  display: inline-block;
+  margin-bottom: 2px;
+  margin-top: 22px;
+  line-height: 1;
+}
+
+/* line 324, ../projects/first session/petstepelatee/sass/main.scss */
+.adapt_content p {
+  font-size: 20px;
+  color: gray;
+  font-weight: 400;
+  font-family: open sans,sans-serif;
+  display: block;
+  margin-bottom: 0;
+}
+
+/*end adapt area*/
+/*start our team*/
+/* line 334, ../projects/first session/petstepelatee/sass/main.scss */
+.team-area {
+  padding-bottom: 200px;
+  padding-top: 60px;
+}
+
+/* line 338, ../projects/first session/petstepelatee/sass/main.scss */
+.section_title {
+  padding: 100px 0;
+}
+
+/* line 348, ../projects/first session/petstepelatee/sass/main.scss */
+.thumb img {
+  width: 100%;
+  vertical-align: middle;
+  border-style: none;
+}
+
+/* line 353, ../projects/first session/petstepelatee/sass/main.scss */
+.member_name:hover {
+  transform: translateY(-25px);
+  position: relative;
+  transition: .3s;
+  text-align: center !important;
+}
+
+/* line 359, ../projects/first session/petstepelatee/sass/main.scss */
+.mamber_inner {
+  border-radius: 5px;
+  display: inline-block;
+  padding: 16px 40px 11px;
+  background-color: #fff;
+  box-shadow: 0 16px 35px 0 rgba(0, 0, 2, 0.08);
+}
+
+/* line 366, ../projects/first session/petstepelatee/sass/main.scss */
+.mamber_inner h4 {
+  font-family: 'open sans',sans-serif;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 0;
+  line-height: 1.2em;
+}
+
+/* line 373, ../projects/first session/petstepelatee/sass/main.scss */
+.mamber_inner p {
+  font-size: 14px;
+  color: #7a7b7c;
+  font-weight: 400;
+  margin-bottom: 0;
+  line-height: 30px;
+  font-family: open sans,sans-serif;
+  text-align: center !important;
+}
+
+/*end our team*/
+/*start footer*/
+/* line 384, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-card li, .address-line li, .address-text {
+  font-size: 16px;
+  color: #7a7a7a;
+}
+
+/* line 388, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-card a, .address-line li, .address-line a, .address-text {
+  font-weight: 400;
+  font-family: 'poppins',sans-serif;
+}
+
+/* line 392, ../projects/first session/petstepelatee/sass/main.scss */
+.footer {
+  background-color: #f8f8f8;
+}
+
+/* line 395, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-top {
+  padding-top: 130px;
+  padding-bottom: 110px;
+}
+
+/* line 399, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-title {
+  font-size: 25px;
+  font-weight: 500;
+  color: #2e2e2e;
+  text-transform: capitalize;
+  margin-bottom: 36px;
+  font-family: 'poppins',sans-serif;
+  position: relative;
+}
+
+/* line 408, ../projects/first session/petstepelatee/sass/main.scss */
+.address-line {
+  padding: 0;
+}
+
+/* line 411, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-card li {
+  line-height: 40px;
+}
+
+/* line 415, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-card a {
+  color: #7a7a7a;
+}
+
+/* line 419, ../projects/first session/petstepelatee/sass/main.scss */
+.address-line li {
+  line-height: 40px;
+  list-style: none;
+}
+
+/* line 425, ../projects/first session/petstepelatee/sass/main.scss */
+.address-line a {
+  color: #7a7a7a;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+/* line 431, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-logo {
+  font-size: 22px;
+  font-weight: 400;
+  color: #fff;
+  text-transform: capitalize;
+  margin-bottom: 35px;
+}
+
+/* line 438, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-logo img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+/* line 442, ../projects/first session/petstepelatee/sass/main.scss */
+.address-text {
+  line-height: 28px;
+  margin-bottom: 13px;
+}
+
+/* line 448, ../projects/first session/petstepelatee/sass/main.scss */
+.footer-card ul li a:hover {
+  color: #ff3500;
+  text-decoration: none;
+}
+
+/* line 452, ../projects/first session/petstepelatee/sass/main.scss */
+.social-links {
+  margin-top: 26px;
+  padding: 0;
+}
+
+/* line 456, ../projects/first session/petstepelatee/sass/main.scss */
+.social-links li a {
+  font-size: 15px;
+  width: 30px;
+  display: inline-block;
+  text-align: center;
+  background: 0 0;
+  margin-right: 7px;
+  line-height: 40px !important;
+}
+
+/* line 465, ../projects/first session/petstepelatee/sass/main.scss */
+.social-links li {
+  display: inline-block;
+  list-style-type: none;
+  font-size: inherit;
+  color: #7a7a7a;
+}
+
+/*end footer*/
+
+/*# sourceMappingURL=main.css.map */
